@@ -1,0 +1,6 @@
+{
+  "name": "A3 Prime Hub",
+  "description": "Authorized dealer of HEPO brand premium furniture fittings, screws, fasteners, and wardrobe hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
